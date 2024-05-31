@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-df=pd.read_csv('/content/drive/MyDrive/Document from pratheeksha')
+df=pd.read_csv('iris dataset')
 df.tail(5)
 
 df.head()
